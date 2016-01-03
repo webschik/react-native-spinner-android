@@ -1,0 +1,22 @@
+{
+    "name": "react-native-spinner-android",
+    "version": "1.0.0",
+    "description": "Android Spinner component for React Native",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webschik/react-native-spinner-android.git"
+    },
+    "keywords": [
+        "ReactNative",
+        "Spinner",
+        "Android",
+        "Dropdown"
+    ],
+    "author": "webschik@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/webschik/react-native-spinner-android/issues"
+    },
+    "homepage": "https://github.com/webschik/react-native-spinner-android"
+}

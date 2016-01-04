@@ -1,4 +1,4 @@
-package com.webschik.reactnativeandroidspinner;
+package com.webschik.reactnativespinnerandroid;
 
 import android.content.Context;
 import android.os.SystemClock;

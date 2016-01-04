@@ -1,4 +1,4 @@
-package com.webschik.reactnativeandroidspinner;
+package com.webschik.reactnativespinnerandroid;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;

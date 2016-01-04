@@ -1,6 +1,6 @@
 {
     "name": "react-native-spinner-android",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Android Spinner component for React Native",
     "main": "index.js",
     "repository": {

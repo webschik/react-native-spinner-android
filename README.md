@@ -7,8 +7,8 @@ Android Spinner component for React Native
 
 ````java
 
-include ':ReactNativeDropdownAndroid', ':app'
-project(':ReactNativeDropdownAndroid').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-spinner-android/android')
+include ':ReactNativeSpinnerAndroid', ':app'
+project(':ReactNativeSpinnerAndroid').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-spinner-android/android')
 
 ````
 

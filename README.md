@@ -28,7 +28,7 @@ dependencies {
 
 ````java
 
-import com.webschik.reactnativedropdown.SpinnerPackage; // import
+import com.webschik.reactnativespinnerandroid.SpinnerPackage; // import
 
 public class MainActivity extends Activity implements DefaultHardwareBackBtnHandler {
   ......

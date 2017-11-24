@@ -1,8 +1,8 @@
 # react-native-spinner-android
-Android Spinner component for React Native
+(Android Spinner)[https://developer.android.com/guide/topics/ui/controls/spinner.html] component for React Native
 
 # !!! Deprecated !!!
-**It's deprecated now!!!** Use [React-Native Picker](https://facebook.github.io/react-native/docs/picker.html) instead.
+**This module is deprecated now. Use [React-Native Picker](https://facebook.github.io/react-native/docs/picker.html) instead.**
 
 ## Installation Android
 * `npm install --save react-native-spinner-android`

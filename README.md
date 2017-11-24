@@ -1,5 +1,5 @@
 # react-native-spinner-android
-(Android Spinner)[https://developer.android.com/guide/topics/ui/controls/spinner.html] component for React Native
+[Android Spinner](https://developer.android.com/guide/topics/ui/controls/spinner.html) component for React Native
 
 # !!! Deprecated !!!
 **This module is deprecated now. Use [React-Native Picker](https://facebook.github.io/react-native/docs/picker.html) instead.**
